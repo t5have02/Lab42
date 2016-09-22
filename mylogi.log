@@ -1,0 +1,111 @@
+    1  ssh-keygen -t rsa -b 4096
+    2  eval "$(ssh-agent -s)"
+    3  ssh-add ~/.ssh/id_rsa
+    4  clip < ~/.ssh/id_rsa.pub
+    5  clip < ~/.ssh/id_rsa.pub
+    6  eval "$(ssh-agent -s)"
+    7  ssh-add ~/.ssh/id_rsa
+    8  clip < ~/.ssh/id_rsa.pub
+    9  clip < ~/.ssh/id_rsa.pub
+   10  clip < ~/.ssh/id_rsa.pub
+   11  cat ~/.ssh/id_rsa.pub >/dev/clipboard
+   12   cat ~/.ssh/id_rsa.pub >/dev/clipboard
+   13  cd /c/Omat/rep
+   14  git init
+   15  git add.
+   16  git add .
+   17  git commit -m"first commit"
+   18  git remote add origin [https://github.com/t5have02]
+   19  git remote -v
+   20  git push origin master
+   21  git remote add origin https://github.com/t5have02/ShortCat.git
+   22  git remote rename <[https://github.com/t5have02]><https://github.com/t5have02/ShortCat.git>
+   23  git remote set url delete
+   24  git remote -v
+   25  git remote remove push
+   26  git remote
+   27  git remote -v
+   28  git remote set-url
+   29  git delete
+   30  git--delete
+   31  git remote -v
+   32  git remote push
+   33  git remote rename [https://github.com/t5have02] https://github.com/t5have02/ShortCat.git
+   34  git remote set-url origin rename [https://github.com/t5have02] https://github.com/t5have02/ShortCat.git
+   35  git remote set-url origin rename [https://github.com/t5have02] https://github.com/t5have02/ShortCat.git
+   36  git remote set-url origin https://github.com/t5have02/ShortCat.git
+   37  remote -v
+   38  git remote -v
+   39  git push origin master
+   40  git branch b1
+   41  git branch b1
+   42  git branch
+   43  git add .
+   44  git commit -m "longer cat"
+   45  git checkout b1
+   46  git branch
+   47  git add .
+   48  git commit -m "ears"
+   49  git checkout master
+   50  git branch
+   51  git merge bi -m "merge"
+   52  git merge b1 -m "merge"
+   53  git branch -d b1
+   54  git branch
+   55  history > mylogi .log
+   56  history > mylogi.log
+   57  history
+   58  history
+   59  git push origin master
+   60  ssh-keygen -t rsa -b 4096
+   61  ssh-keygen -t rsa -b 4096
+   62  eval "$(ssh-agent -s)"
+   63  ssh-add ~/.ssh/id_rsa
+   64  clip < ~/.ssh/id_rsa.pub
+   65  cat ~/.ssh/id_rsa.pub >/dev/clipboard
+   66  git remote -v
+   67  cd c/Omat/rep
+   68  cd /c/Omat/rep
+   69  git remote -v
+   70  git push origin master
+   71  git branch b2
+   72  git branch
+   73  git checkout b2
+   74  git branch
+   75  git checkout master
+   76  git branch
+   77  git add .
+   78  git commit -m "I as belt"
+   79  git checkout b2
+   80  git branch
+   81  git checkout master
+   82  git checkout b1
+   83  git checkout b2
+   84  git add .
+   85  git commit -m "X belt"
+   86  git checkout master
+   87  git branch
+   88  git merge b2 -m "merge"
+   89  git add .
+   90  git commit -m "conflict resolved"
+   91  git branch
+   92  git branch -d b2
+   93  git branch
+   94  git push origin master
+   95  history
+   96  history > mylogi2.log
+   97  ssh-keygen -t rsa -b 4096
+   98  eval "$(ssh-agent -s)"
+   99  ssh-add ~/.ssh/id_rsa
+  100  https://github.com/t5have02/Lab42.git
+  101  clip < ~/.ssh/id_rsa.pub
+  102  cat ~/.ssh/id_rsa.pub >/dev/clipboard
+  103  cd /c/Omat/repo1
+  104  git init
+  105  git branch
+  106  git remote add origin https://github.com/t5have02/Lab42.git
+  107  git remote -v
+  108  git add .
+  109  git commit -m "java App added"
+  110  git push origin master
+  111  history > mylogi.log
